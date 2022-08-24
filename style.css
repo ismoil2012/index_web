@@ -1,0 +1,19 @@
+.WDlogo{
+    font-family: 'Revalia', cursive;
+    font-size: 48px;
+    transition: 0.3s;
+}
+.btn-primary {
+    background-color: #34547A;
+}
+.btn-primary:hover {
+    transition: all 0.5s;
+    transform: scale(1.1);
+}
+.projects:hover {
+    transition: all 0.5s;
+    transform: scale(1.1rem);
+}
+.footer1{
+    background-color: #34547A;
+}
